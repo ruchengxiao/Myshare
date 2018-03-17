@@ -10,3 +10,20 @@
     padding: 9px;
 }
 
+.navbar-home {
+    font-size: 15px;
+}
+
+.pattern-home {
+    font-size: 17px;
+}
+
+.navbar-myshare {
+    padding-left: 30px;
+}
+
+
+#delete-form {
+    display: inline;
+}
+
